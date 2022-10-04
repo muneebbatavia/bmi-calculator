@@ -13,7 +13,7 @@ To run the code you need to follow these steps
     npm install
     npm start
     
-After that, access the site at localhost:3000
+After that, access the site at [localhost:3000](http://localhost:3000/)
 
 ### Contributing
 ___
