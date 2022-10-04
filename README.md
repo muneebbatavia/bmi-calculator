@@ -1,10 +1,24 @@
-# BMI Calculator App
-It's a web app for calculating your BMI by just entering your Height in (KG) and Weight in (Meters).
+# BMI Calculator
+___
+A web app for calculating your BMI by just entering your Height in (KG) and Weight in (Meters).
 
-# Getting Started
-You will be needing npm to run this app on your browser\
-Open the code in your local editor\
-Run, npm start on console\
-Or Open a browser and navigate to localhost:3000
+## Prerequisite
+___
+BMI Calculator is a React - app
 
-After making any change in the code (App.js) , refresh your browser for the changes to take place.
+## Development
+___
+To run the code you need to follow these steps
+
+    npm install
+    npm start
+    
+After that, access the site at localhost:3000
+
+### Contributing
+___
+Pull requests and stars are always welcome. For bugs and feature requests, please create an issue
+
+### Author
+____
+Muneeb Altaf
