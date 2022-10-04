@@ -1,2 +1,2 @@
-# bmi-calculator
+# BMI Calculator App
 
