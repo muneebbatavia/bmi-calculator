@@ -16,7 +16,7 @@ function App() {
       var bmi = weight / (height * height);
       setBmi(bmi.toFixed(1));
     }
-    console.log(bmi);
+  
     //msg
     
     if (bmi <= 18.5) {
